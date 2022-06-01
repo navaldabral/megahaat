@@ -1,11 +1,3 @@
-about hello about
-
-
-
-Sporact
-https://sporact.anlyz.dev
-username pankajp
-
-password EPIC@2023
+https://github.com/demisto/content/tree/master/Packs
 
 
