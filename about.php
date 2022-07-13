@@ -1,12 +1,5 @@
-https://github.com/demisto/content/tree/master/Packs
-
-
-
-pankajp
-EPICe_2023
-
-
 pkr.pathak@rediffmail.com
-EPICe_2023
+Hello@
 
-https://www.uttarakhandtaxi.in/naval.zip
+https://www.youtube.com/watch?v=n4PVC5O_tJo
+https://www.youtube.com/watch?v=mMYH7noJLJg
